@@ -1,0 +1,31 @@
+main {
+   margin: 20px;
+   padding: 20px;
+   font: bold 16px/1.5 Georgia, san-serif;
+   color: #305069;
+   border: 5px solid #305069;
+   outline: 5px solid #a1c0d8;
+   background: #c8d8e6;
+}
+.avatar {
+   width: 400px;
+}
+.contact img {
+   padding: 5px;
+   width: 30px; 
+   vertical-align: middle;
+}
+h1 {
+   text-decoration: underline;
+}
+h3 {
+   color: #c8d8e6;
+   text-decoration: underline;
+   background: #305069;
+}
+.english {
+   padding-bottom: 20px;
+}
+footer img {
+   width: 50px;
+}
